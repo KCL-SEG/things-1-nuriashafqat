@@ -1,5 +1,5 @@
 from django.db import models
-from django.db import Model
+from django.db.models import Model
 from django.core.validators import MinValueValidator
 from django.core.validators import MaxValueValidator
 
